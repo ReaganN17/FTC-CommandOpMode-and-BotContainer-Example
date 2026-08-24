@@ -1,4 +1,4 @@
-reagan's explanation of thigns (not good probably)
+reagan's explanation of thigns (not good probably) (I was also like 16)
 
 LinearOpMode is simple for basic java, its runs a while loop and contains if statements for gamepad, similiar to gameloops in basic code.org type games
 CommandOpMode instead is all initialization for setup configuration, ie creating gamebutton binds to commands
